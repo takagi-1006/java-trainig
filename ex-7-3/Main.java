@@ -7,5 +7,5 @@ public class Main {
         System.out.print("観光地：");
         System.out.println("案内係で入力された結果を読み取る（属性）、観光名所、住所、所在地、解説を提示（操作）");
     }
-    
+
 }

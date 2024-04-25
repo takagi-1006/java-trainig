@@ -8,5 +8,5 @@ public abstract class Asset {
     }
 
     public String getName(){return this.name;}
-    public String getPrice(){return this.price;}
+    public int getPrice(){return this.price;}
 } 
